@@ -13,12 +13,17 @@ git clone https://github.com/jorjodell/pre.ax-test.git
 ```git
 git checkout -b developer/FL-01
 ```
-3. После завершения задачи коммитить названием и номером задачи, например `1. Create ui layout`;
+3. Установить зависимости и запустить проект
+```
+npm install
+npm start
+```
+4. После завершения задачи коммитить названием и номером задачи, например `1. Create ui layout`;
 ```git
 git commit -m "1. Create ui layout"
 ```
 
-4. Пушить в такую же удаленную ветку
+5. Пушить в такую же удаленную ветку
 ```git
 git push origin developer/FL-01
 ```

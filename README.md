@@ -9,7 +9,7 @@
 git clone https://github.com/jorjodell/pre.ax-test.git
 ```
 
-2. Создать из ветки `master` свою ветку `developer/FL-01`, где FL — ваши инициалы, 01 — ваш ID.
+2. Создать из ветки `main` свою ветку `developer/FL-01`, где FL — ваши инициалы, 01 — ваш ID.
 ```git
 git checkout -b developer/FL-01
 
